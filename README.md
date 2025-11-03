@@ -1,8 +1,3 @@
-¡Absolutamente\! Aquí tienes el contenido del **`README.md`** actualizado, respetando los nombres de archivos que has utilizado en tu repositorio (`02_DML_insercionDatos`, `04_consultas.sql`, etc.), y asegurando que las instrucciones de instalación y prueba sean correctas.
-
-## 📄 README.md (Actualizado)
-
-````markdown
 # 🎓 Sistema de Gestión Académica (Taller PostgreSQL 16)
 
 Este repositorio contiene la implementación completa de un sistema de gestión académica diseñado en **PostgreSQL 16**. El proyecto integra DDL, DML, consultas avanzadas (CTEs/Window Functions), Triggers y control de concurrencia.
