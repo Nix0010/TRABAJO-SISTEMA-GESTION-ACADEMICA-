@@ -66,6 +66,3 @@ El diseño incluye las 6 entidades mínimas requeridas. El diagrama Entidad-Rela
   * El script `05_control-concurrencia.sql` utiliza **bloqueo explícito** con `SELECT ... FOR UPDATE` para garantizar la **serialización** de las transacciones y prevenir el problema de "Actualización Perdida" al modificar datos críticos como los créditos de un curso.
 
 
-
-Si necesitas ayuda para redactar la explicación final de alguna consulta en específico, házmelo saber.
-```
